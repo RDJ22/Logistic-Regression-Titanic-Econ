@@ -22,7 +22,9 @@ This repository contains two parts of a project focused on understanding and app
 
 ## Contents
 
-- [Assignment PDF – Econ1_2.pdf](./Econ Task1_2.pdf)
+- ## 📄 Assignment Prompt
+
+- [Assignment PDF – Econ Task1_2.pdf](./Econ%20Task1_2.pdf)
 - [Q1.ipynb](./Q1.ipynb) – Logistic regression gradient derivation
 - [Q2.ipynb](./Q2.ipynb) – Titanic logistic regression implementation
 
