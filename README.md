@@ -22,7 +22,7 @@ This repository contains two parts of a project focused on understanding and app
 
 ## Contents
 
-- ## 📄 Assignment Prompt
+- ## 📄 Assignment Prompt and Solution
 
 - [Assignment PDF – Econ Task1_2.pdf](./ECON%20Task1_2.pdf)
 - [Q1.ipynb](./Q1.ipynb) – Logistic regression gradient derivation
